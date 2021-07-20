@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046416368739",
+    "project_id": "again-1591943550501",
+    "storage_bucket": "again-1591943550501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046416368739:android:464ba8c119cfe648e74456",
+        "android_client_info": {
+          "package_name": "com.origino.easylang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046416368739-inof9uifk809qtn1euh0qpgvnkdc7qvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBL6Es0F8cCx9BxDVnnz4lRkIOyWCkNiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046416368739-inof9uifk809qtn1euh0qpgvnkdc7qvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
